@@ -1,0 +1,27 @@
+{
+    "name": "moein/ZendeskTicketManager",
+    "description": "Zendesk Ticket manager class",
+    "keywords": ["zendesk", "api", "ticket"],
+    "homepage": "https://github.com/moein/ZendeskTicketManager",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Moein Akbarof",
+            "email": "moein.ak@gmail.com",
+            "homepage": "http://imaprogrammer.wordpress.com/"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "kriswallsmith/buzz": "dev-master",
+    },
+    "suggest": {
+        "ext-curl": "*"
+    },
+    "autoload": {
+        "psr-0": {
+            "Zendesk": "lib/"
+        }
+    }
+}
