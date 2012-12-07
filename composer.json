@@ -1,5 +1,5 @@
 {
-    "name": "moein/ZendeskTicketManager",
+    "name": "moein/zendesk-ticket-manager",
     "description": "Zendesk Ticket manager class",
     "keywords": ["zendesk", "api", "ticket"],
     "homepage": "https://github.com/moein/ZendeskTicketManager",
