@@ -3,7 +3,7 @@
 namespace ZendeskTicketManager;
 
 use Buzz\Browser;
-use Zendesk\TicketManager\Exception;
+use ZendeskTicketManager\Exception;
 
 class TicketManager implements TicketManagerInterface
 {

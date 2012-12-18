@@ -1,6 +1,6 @@
 <?php
 
-namespace ZendeskTicketManager\Exception;
+namespace Phoenix\CoreBundle\TicketManager\Exception;
 
 class MissingCurlException extends \RuntimeException {
      
